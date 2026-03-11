@@ -31,3 +31,7 @@ nome: String= 'Tri Mundial';
         if (a!=b)
             console.log('diferentes')
 ```
+### Tipagem Variavel
+```
+    Nunca utilizar var, sempre let ou const
+```
